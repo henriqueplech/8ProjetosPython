@@ -6,3 +6,8 @@ Usei como base um vídeo de um Youtuber referencial brasileiro que ensina divers
 segue aqui o canal do mesmo para que vcs confiram o trabalho dele:
 https://www.youtube.com/c/DevAprender
 Jhonatan de Souza
+
+As tecnologias utilizadas foram:
+1.Python
+2.PySimpleGUI
+3.VS Code
